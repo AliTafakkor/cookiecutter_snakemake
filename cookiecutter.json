@@ -1,7 +1,7 @@
 {
-    "project_name": "My Snakemake Project",
-    "project_slug": "my-snakemake-project",
-    "author_name": "Ali",
+    "project_name": "My Snakemake Workflow",
+    "project_slug": "my-snakemake-workflow",
+    "author_name": "Author",
     "description": "A short description of the project."
   }
   
